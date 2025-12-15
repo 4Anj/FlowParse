@@ -4,11 +4,11 @@ Automatically discover and analyze network protocol structures using machine lea
 
 ## Key Features:
 
-. Automatic protocol structure discovery
-. ML-powered pattern recognition (BiLSTM + Clustering)
-. Interactive visualization dashboard
-. Formal grammar rule generation
-. Analyze unknown protocols
+Automatic protocol structure discovery
+ML-powered pattern recognition (BiLSTM + Clustering)
+Interactive visualization dashboard
+Formal grammar rule generation
+Analyze unknown protocols
 
 ## Getting Started with FlowParse
 Prerequisites
@@ -42,7 +42,7 @@ Open link to view it in your browser.
 http://localhost:3000
 ```
 
-That's it, the project is running locally.
+That's it, the project is running locally.🎉
 
 ### Usage
 Click "Upload PCAP" and select your network capture file (.pcap, .pcapng, .cap)
