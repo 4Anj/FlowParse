@@ -1,4 +1,4 @@
-## FlowParse
+# FlowParse
 ML-Powered Network Protocol Grammar Discovery
 Automatically discover and analyze network protocol structures using machine learning—no prior protocol knowledge required.
 
@@ -18,7 +18,7 @@ Node.js 18+
 npm
 ```
 
-# Install dependencies in the project folder
+## Install dependencies in the project folder
 BACKEND:
 ```bash
 pip install scapy numpy pandas scikit-learn torch tensorflow matplotlib seaborn
@@ -30,7 +30,7 @@ npm install
 npm start
 ```
 
-# Run the React project
+## Run the React project
 
 In the project directory, you can run:
 ```bash
@@ -44,7 +44,7 @@ http://localhost:3000
 
 That's it, the project is running locally.
 
-## Usage
+### Usage
 Click "Upload PCAP" and select your network capture file (.pcap, .pcapng, .cap)
 Run Analysis
 Explore Results and insights
